@@ -31,7 +31,7 @@
 - **IT-Mitarbeiterin – Islamic Azad Universität (2019–2021)**  
   User support, system maintenance, device management  
 
-- **IT-Support – Pouya Ghaleb Parseh (2021–2023)**  
+- **IT-Support – Pouya Ghaleb Parseh (2014–2017)**  
   Troubleshooting, software installation, customer support 
 ---
 
