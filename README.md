@@ -2,7 +2,7 @@
 # 👩‍💻 Negin Kianimarvast  
 
 **Junior Frontend Developer | IT-Support**  
-📍 Marktoberdorf, Bayern | 🌍 Multilingual (DE/EN/TR/FA)  
+📍 Mönchengladbach, NRW | 🌍 Multilingual (DE/EN/TR/FA)  
 
 ---
 
@@ -47,6 +47,6 @@
 ## 🔹 Languages  
 
 - 🇩🇪 Deutsch – B1 (B2 in progress)  
-- 🇬🇧 English – B2  
-- 🇹🇷 Turkish – C1  
+- 🇬🇧 English – C1  
+- 🇹🇷 Turkish – C1 (Education purposed)  
 - 🇮🇷 Persian – Native  
