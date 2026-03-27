@@ -47,6 +47,6 @@
 ## 🔹 Languages  
 
 - 🇩🇪 Deutsch – B1 (B2 in progress)  
-- 🇬🇧 English – C1  
+- 🇬🇧 English – Native 
 - 🇹🇷 Turkish – C1 (Education purposed)  
 - 🇮🇷 Persian – Native  
