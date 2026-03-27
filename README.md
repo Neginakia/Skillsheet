@@ -9,7 +9,7 @@
 ## 🔹 Technical Skills  
 
 **Programming & Web**  
-- HTML, CSS, JavaScript  
+- HTML, CSS, JavaScript, Python, C++
 - Webflow, Figma, Responsive Design  
 - Git, GitHub, Jira, Confluence  
 
