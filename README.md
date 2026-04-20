@@ -16,7 +16,7 @@
 **IT-Support & Systems**  
 - Windows & macOS troubleshooting  
 - Microsoft 365, User & Device Management  
-- Networking Basics, Cisco Cybersecurity Intro  
+- Networking Basics, Cisco Cybersecurity  
 
 ---
 
